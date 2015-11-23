@@ -2,7 +2,7 @@
 总结一个新的网络框架：回调方式实现
 
 ## 看图说话
-![](http://i5.tietuku.com/b7466022ede445b6.gif)
+![](https://ooo.0o0.ooo/2015/11/23/56530c3d8002e.gif)
 
 ## 包结构
 - domain：bean包
@@ -13,7 +13,7 @@
 
 ## 回调图解
 
-![](http://i5.tietuku.com/aa24d0e86c26b4e8.png)
+![](https://ooo.0o0.ooo/2015/11/23/56530cbda2674.png)
 
 ## 有关回调的一点理解
 - 回调最大的功效就是解耦
