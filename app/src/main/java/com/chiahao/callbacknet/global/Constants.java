@@ -6,5 +6,5 @@ package com.chiahao.callbacknet.global;
  */
 public class Constants {
     // 这个json文件托管在GitHub上面
-    public static String url = "https://raw.githubusercontent.com/chiahaolu/TestAPI/master/Person.json";
+    public static String url = "https://raw.githubusercontent.com/chiahaolu/CallbackNet/master/app/src/main/java/Person.json";
 }
